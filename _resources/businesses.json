@@ -1,0 +1,68 @@
+{
+    "businesses": [
+      {
+        "category": "Retail",
+        "city": "Milwaukee",
+        "company": "JumpXS",
+        "description": "Lorem Ipsumas aslhaflkhalskfhaflkh",
+        "email": "kasd@dfs.ly",
+        "phone": "1-212-42323",
+        "state": "Wisconsin",
+        "street_address": "856 Sheridan Terrace",
+        "years_in_business": 7,
+        "zipcode": "23231"
+      },
+      {
+         "category": "Enterprise",
+        "city": "Washington",
+        "company": "IBM",
+        "description": "Enterprise eeeeeeeeeeeeeeeeeeeeeeee",
+        "email": "asdasdasdas@dfs.ly",
+        "phone": "67653452323",
+        "state": "Wisconsin",
+        "street_address": "856 Sheridan Terrace",
+        "years_in_business": 7,
+        "zipcode": "2111"
+      },
+      {
+        "category": "Retail",
+        "city": "Milwaukee",
+        "company": "JumpXS",
+        "description": "Lorem Ipsumas aslhaflkhalskfhaflkh",
+        "email": "ngdsdfdsf@dfs.ly",
+        "phone": "1-2434376523",
+        "state": "Wisconsin",
+        "street_address": "856 Sheridan Terrace",
+        "years_in_business": 7,
+        "zipcode": "73231"
+      }
+    ],
+    "items": [
+      {
+         "body": "This is the body",
+        "name": "Item One"
+      },
+      {
+        "body": "This is the body",
+        "name": "Item Two"
+      },
+      {
+        "body": "This is the body",
+        "name": "Item Three"
+      }
+    ],
+    "categories": [
+      {
+        "name": "IT"
+      },
+      {
+         "name": "Enterprise"
+      },
+      {
+        "name": "Retail"
+      }
+ ]
+}
+
+
+
